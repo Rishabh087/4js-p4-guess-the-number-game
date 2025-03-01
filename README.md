@@ -21,4 +21,4 @@ A fun web-based game where the user has to guess a randomly generated number bet
 
 1. Clone the repository to your local machine.
    ```bash
-   git clone https://github.com/Rishabh087/guess-the-number-game.git
+   git clone https://github.com/Rishabh087/4js-p4-guess-the-number-game.git
